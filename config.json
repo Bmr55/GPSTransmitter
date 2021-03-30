@@ -1,0 +1,4 @@
+{
+	"deviceid":"custom-deviceid",
+	"websocket_url":"ws://longboardgps.ngrok.io"
+}
