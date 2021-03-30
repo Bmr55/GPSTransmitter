@@ -7,7 +7,7 @@ A python program using gps3 and websockets to transmit GPS data to a server
 ## config.json
 Use this file to configure your unique deviceid and websocket server location
 
-## Example Message 
+## Example Transmission Message 
 ```json
 {
   "messageType": "TpvUpdate",
